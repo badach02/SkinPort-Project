@@ -1,0 +1,11 @@
+# Random stuff
+json/sales.json
+json/items.json
+json/transactions.json
+/.idea
+/__pycache__
+geckodriver.log
+
+# Credentials
+json/servicecred.json
+json/skinport_secrets.json
